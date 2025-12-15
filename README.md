@@ -66,6 +66,7 @@ streamlit run app.py
 Upload a contract and review compliance results on the web interface.
 
 📁 Project Structure
+
 AI-Powered-Regulatory-Compliance-Checker-for-Contracts/
 │
 ├── app.py               # Streamlit web interface
