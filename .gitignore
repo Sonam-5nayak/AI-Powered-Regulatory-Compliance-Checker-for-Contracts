@@ -3,11 +3,18 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+# Secrets
+credentials.json
+
+# ML / Vector DB files
+faiss_index.bin
+metadata.pkl
 
 # Virtual environment
 myenv/
-env/
-venv/
+# data sets
+newData/
+data/
 
 # Environment variables
 .env
